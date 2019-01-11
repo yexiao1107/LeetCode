@@ -13,39 +13,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCode$sqrt_x_.coverage" NAME="sqrt(x) Coverage Results" MODIFIED="1546394651643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$binaryTreeLevelOrderTraversalII.coverage" NAME="binaryTreeLevelOrderTraversalII Coverage Results" MODIFIED="1547113765902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$mergeSortedArray.coverage" NAME="mergeSortedArray Coverage Results" MODIFIED="1546940532201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$removeDuplicatesfromSortedList.coverage" NAME="removeDuplicatesfromSortedList Coverage Results" MODIFIED="1546843524979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$climbingStairs.coverage" NAME="climbingStairs Coverage Results" MODIFIED="1546397578283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sqrt(x).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sqrt(x).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="climbingStairs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/climbingStairs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="removeDuplicatesfromSortedList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/removeDuplicatesfromSortedList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mergeSortedArray.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mergeSortedArray.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,11 +56,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binaryTreeLevelOrderTraversalII.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="binaryTreeLevelOrderTraversalII.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binaryTreeLevelOrderTraversalII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="340">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="convertSortedArraytoBinarySearchTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/convertSortedArraytoBinarySearchTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="balancedBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/balancedBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minimumDepthofBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minimumDepthofBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pathSum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pathSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="102" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -96,15 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mergeTwoSortedLists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mergeTwoSortedLists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1152">
-              <caret line="48" column="18" selection-start-line="46" selection-start-column="4" selection-end-line="48" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -133,6 +134,10 @@
         <option value="$PROJECT_DIR$/symmetricTree.py" />
         <option value="$PROJECT_DIR$/maximumDepthofBinaryTree.py" />
         <option value="$PROJECT_DIR$/binaryTreeLevelOrderTraversalII.py" />
+        <option value="$PROJECT_DIR$/convertSortedArraytoBinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/balancedBinaryTree.py" />
+        <option value="$PROJECT_DIR$/minimumDepthofBinaryTree.py" />
+        <option value="$PROJECT_DIR$/pathSum.py" />
       </list>
     </option>
   </component>
@@ -190,7 +195,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mergeSortedArray">
+  <component name="RunManager" selected="Python.binaryTreeLevelOrderTraversalII">
+    <configuration name="binaryTreeLevelOrderTraversalII" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binaryTreeLevelOrderTraversalII.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="climbingStairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,9 +296,11 @@
       <item itemvalue="Python.climbingStairs" />
       <item itemvalue="Python.removeDuplicatesfromSortedList" />
       <item itemvalue="Python.mergeSortedArray" />
+      <item itemvalue="Python.binaryTreeLevelOrderTraversalII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.binaryTreeLevelOrderTraversalII" />
         <item itemvalue="Python.mergeSortedArray" />
         <item itemvalue="Python.removeDuplicatesfromSortedList" />
         <item itemvalue="Python.climbingStairs" />
@@ -304,7 +330,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -504,8 +530,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binaryTreeLevelOrderTraversalII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="340">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convertSortedArraytoBinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/balancedBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minimumDepthofBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="102" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="102" />
         </state>
       </provider>
     </entry>
