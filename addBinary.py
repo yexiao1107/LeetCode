@@ -11,8 +11,8 @@ def addBinary(a, b):
     for i in range(0, (len(a) - len(b))):
         b = "0" + b
 
-    carry = 0;
-    result = "";
+    carry = 0
+    result = ""
 
     for i in range(len(a) - 1, -1, -1):
         temp = int(a[i]) + int(b[i]) + carry
@@ -25,4 +25,4 @@ def addBinary(a, b):
         return result
 
 if __name__ == "__main__":
-    print(addBinary("111","011"))
+    print(addBinary("111","11"))
