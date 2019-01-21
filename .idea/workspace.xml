@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dbdbd1-17ab-4b39-9975-caf59b8b024d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/singleNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validPalindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addBinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/addBinary.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,19 +26,12 @@
     <SUITE FILE_PATH="coverage/LeetCode$mergeSortedArray.coverage" NAME="mergeSortedArray Coverage Results" MODIFIED="1546940532201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$maximumSubarray.coverage" NAME="maximumSubarray Coverage Results" MODIFIED="1547200795978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$twoSum.coverage" NAME="twoSum Coverage Results" MODIFIED="1547201878786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$singleNumber.coverage" NAME="singleNumber Coverage Results" MODIFIED="1548054800311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$plusOne.coverage" NAME="plusOne Coverage Results" MODIFIED="1547201536712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Valid_Palindrome.coverage" NAME="Valid Palindrome Coverage Results" MODIFIED="1548053741876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sqrt(x).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sqrt(x).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="symmetricTree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/symmetricTree.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,11 +77,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bestTimetoBuyandSellStock2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bestTimetoBuyandSellStock2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bestTimetoBuyandSellStock2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validPalindrome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/validPalindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="23" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singleNumber.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/singleNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -106,15 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="searchInsertPosition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/searchInsertPosition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -152,6 +155,8 @@
         <option value="$PROJECT_DIR$/pascal'sTriangleII.py" />
         <option value="$PROJECT_DIR$/bestTimetoBuyandSellStock.py" />
         <option value="$PROJECT_DIR$/bestTimetoBuyandSellStock2.py" />
+        <option value="$PROJECT_DIR$/Valid Palindrome.py" />
+        <option value="$PROJECT_DIR$/singleNumber.py" />
       </list>
     </option>
   </component>
@@ -209,7 +214,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bestTimetoBuyandSellStock2">
+  <component name="RunManager" selected="Python.singleNumber">
+    <configuration name="Valid Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\LeetCode\validPalindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="bestTimetoBuyandSellStock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,25 +272,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pascal'sTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pascal'sTriangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="pascal'sTriangleII" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,7 +291,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="twoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="singleNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,26 +304,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twoSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/singleNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.twoSum" />
-      <item itemvalue="Python.pascal'sTriangle" />
       <item itemvalue="Python.pascal'sTriangleII" />
       <item itemvalue="Python.bestTimetoBuyandSellStock" />
       <item itemvalue="Python.bestTimetoBuyandSellStock2" />
+      <item itemvalue="Python.Valid Palindrome" />
+      <item itemvalue="Python.singleNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.singleNumber" />
+        <item itemvalue="Python.Valid Palindrome" />
         <item itemvalue="Python.bestTimetoBuyandSellStock2" />
         <item itemvalue="Python.bestTimetoBuyandSellStock" />
         <item itemvalue="Python.pascal'sTriangleII" />
-        <item itemvalue="Python.pascal'sTriangle" />
-        <item itemvalue="Python.twoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -333,20 +338,27 @@
       <option name="presentableId" value="Default" />
       <updated>1546392682147</updated>
     </task>
+    <task id="LOCAL-00001" summary="买卖股票最佳时机">
+      <created>1547802679678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547802679678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -368,26 +380,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="买卖股票最佳时机" />
+    <option name="LAST_COMMIT_MESSAGE" value="买卖股票最佳时机" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/symmetricTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validParentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/searchInsertPosition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -714,8 +716,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bestTimetoBuyandSellStock2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="23" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singleNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
