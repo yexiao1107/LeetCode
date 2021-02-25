@@ -21,7 +21,7 @@
 '''
 
 
-# Definition for a binary tree node.
+# Definition for a binary Tree node.
 class TreeNode:
     def __init__(self, x):
         self.val = x

@@ -6,7 +6,7 @@ class TreeNode:
 
 class Solution:
     # @param num, a list of integers
-    # @return a tree node
+    # @return a Tree node
     def sortedArrayToBST(self, num):
         length = len(num)
         if length == 0:
