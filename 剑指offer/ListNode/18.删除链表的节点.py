@@ -34,9 +34,9 @@ class Solution:
         :return:
         '''
         if head.val == val:  return head.next
-        p = head
-        while p.next.val != val and p.next != None:
-            p = p.next
-        if (p.next != None):
-            p.next = p.next.next
+        pre, cur = head, head.next
+        while cur.val != val and cur != None:
+            pre, cur = cur, cur.next
+        if (cur != None):
+            pre.next = cur.next
         return head
